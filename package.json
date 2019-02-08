@@ -1,7 +1,7 @@
 {
-  "name": "interpolate-object",
+  "name": "interpolate-parameters",
   "version": "1.0.0",
-  "description": "Deep iterate through a given object or array and interpolate each string value in it.",
+  "description": "Deep traverse an object and substitute placeholders from a set of values.",
   "keywords": [
     "string interpolation",
     "variable interpolation",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lionel87/interpolate-object"
+    "url": "https://github.com/lionel87/interpolate-parameters"
   },
   "author": "László Bulik",
   "license": "MIT",
