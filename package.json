@@ -1,0 +1,24 @@
+{
+  "name": "interpolate-object",
+  "version": "1.0.0",
+  "description": "Deep iterate through a given object or array and interpolate each string value in it.",
+  "keywords": [
+    "string interpolation",
+    "variable interpolation",
+    "variable substitution",
+    "variable expansion"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lionel87/interpolate-object"
+  },
+  "author": "László Bulik",
+  "license": "MIT",
+  "dependencies": {
+    "interpolate-string": "^1.0.1"
+  }
+}
