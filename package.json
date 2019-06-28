@@ -1,6 +1,6 @@
 {
   "name": "interpolate-parameters",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "Deep traverse an object and substitute placeholders from a set of values.",
   "keywords": [
     "string interpolation",
@@ -9,6 +9,7 @@
     "variable expansion"
   ],
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,8 +18,5 @@
     "url": "https://github.com/lionel87/interpolate-parameters"
   },
   "author": "László Bulik",
-  "license": "MIT",
-  "dependencies": {
-    "interpolate-string": "^1.0.1"
-  }
+  "license": "MIT"
 }
