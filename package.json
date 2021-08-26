@@ -1,6 +1,6 @@
 {
   "name": "interpolate-parameters",
-  "version": "2.1.0",
+  "version": "2.˝2.0",
   "description": "Deep traverse an object and substitute placeholders from a set of values.",
   "keywords": [
     "string interpolation",
